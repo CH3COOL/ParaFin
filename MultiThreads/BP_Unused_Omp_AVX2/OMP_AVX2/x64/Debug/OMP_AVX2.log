@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\作↓业\2023春\并行BP_串行版\OMP_AVX2\OMP_AVX2\main.cpp(21,32): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\OMP_AVX2\OMP_AVX2\main.cpp(286,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\OMP_AVX2\OMP_AVX2\main.cpp(297,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\OMP_AVX2\OMP_AVX2\main.cpp(313,46): warning C4305: “参数”: 从“double”到“float”截断
+D:\作↓业\2023春\并行BP_串行版\OMP_AVX2\OMP_AVX2\main.cpp(315,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\OMP_AVX2\OMP_AVX2\main.cpp(336,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  OMP_AVX2.vcxproj -> D:\作↓业\2023春\并行BP_串行版\OMP_AVX2\x64\Debug\OMP_AVX2.exe

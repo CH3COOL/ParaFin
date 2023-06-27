@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Omp_SSE_Transpose", "Omp_SSE_Transpose\Omp_SSE_Transpose.vcxproj", "{99DF7ADC-3A7D-4C95-9293-D15811D99969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DF7ADC-3A7D-4C95-9293-D15811D99969}.Debug|x64.ActiveCfg = Debug|x64
+		{99DF7ADC-3A7D-4C95-9293-D15811D99969}.Debug|x64.Build.0 = Debug|x64
+		{99DF7ADC-3A7D-4C95-9293-D15811D99969}.Debug|x86.ActiveCfg = Debug|Win32
+		{99DF7ADC-3A7D-4C95-9293-D15811D99969}.Debug|x86.Build.0 = Debug|Win32
+		{99DF7ADC-3A7D-4C95-9293-D15811D99969}.Release|x64.ActiveCfg = Release|x64
+		{99DF7ADC-3A7D-4C95-9293-D15811D99969}.Release|x64.Build.0 = Release|x64
+		{99DF7ADC-3A7D-4C95-9293-D15811D99969}.Release|x86.ActiveCfg = Release|Win32
+		{99DF7ADC-3A7D-4C95-9293-D15811D99969}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C2B0802-647C-465F-9E47-CED66BAFE23B}
+	EndGlobalSection
+EndGlobal

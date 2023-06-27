@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\作↓业\2023春\并行BP_串行版\Project1\Project1\main.cpp(15,32): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project1\Project1\main.cpp(88,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project1\Project1\main.cpp(187,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project1\Project1\main.cpp(213,45): warning C4305: “参数”: 从“double”到“float”截断
+D:\作↓业\2023春\并行BP_串行版\Project1\Project1\main.cpp(236,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\作↓业\2023春\并行BP_串行版\Project1\x64\Debug\Project1.exe

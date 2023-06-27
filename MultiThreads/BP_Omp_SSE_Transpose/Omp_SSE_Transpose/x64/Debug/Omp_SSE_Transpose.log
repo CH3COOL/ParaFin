@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\作↓业\2023春\并行BP_串行版\Omp_SSE_Transpose\Omp_SSE_Transpose\main.cpp(21,32): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Omp_SSE_Transpose\Omp_SSE_Transpose\main.cpp(277,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Omp_SSE_Transpose\Omp_SSE_Transpose\main.cpp(288,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Omp_SSE_Transpose\Omp_SSE_Transpose\main.cpp(304,46): warning C4305: “参数”: 从“double”到“float”截断
+D:\作↓业\2023春\并行BP_串行版\Omp_SSE_Transpose\Omp_SSE_Transpose\main.cpp(306,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Omp_SSE_Transpose\Omp_SSE_Transpose\main.cpp(327,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Omp_SSE_Transpose.vcxproj -> D:\作↓业\2023春\并行BP_串行版\Omp_SSE_Transpose\x64\Debug\Omp_SSE_Transpose.exe

@@ -1,0 +1,22 @@
+﻿cl : 命令行  warning D9002: 忽略未知选项“-std=c++11”
+cl : 命令行  warning D9002: 忽略未知选项“-mavx2”
+cl : 命令行  warning D9002: 忽略未知选项“-mfma”
+cl : 命令行  warning D9002: 忽略未知选项“-march=native”
+cl : 命令行  warning D9002: 忽略未知选项“-fopenmp”
+cl : 命令行  warning D9002: 忽略未知选项“-pthread”
+cl : 命令行  warning D9002: 忽略未知选项“-lpthread”
+  main.cpp
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(27,50): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(50,27): warning C4311: “类型强制转换”: 从“void *”到“int”的指针截断
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(50,27): warning C4302: “类型强制转换”: 从“void *”到“int”截断
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(221,46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(232,28): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(259,46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(270,28): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(276,46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(287,28): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(308,54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(331,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(357,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\Project2_pthread\main.cpp(402,74): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+  Project2_pthread.vcxproj -> D:\作↓业\2023春\并行BP_串行版\Project2_pthread_sempost\x64\Debug\Project2_pthread.exe
